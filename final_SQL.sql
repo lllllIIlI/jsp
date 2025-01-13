@@ -26,4 +26,5 @@ CREATE TABLE admin (
   password varchar(20) DEFAULT NULL,
   PRIMARY KEY (id)
 );
+
 INSERT INTO admin VALUES ('123','123');
