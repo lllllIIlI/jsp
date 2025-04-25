@@ -92,13 +92,13 @@ bash
 git clone https://github.com/lllllIIlI/jsp.git
 ```
 
-2. MySQL에서 202144102_final_SQL.sql 실행 (DB 및 테이블 생성)
+2. MySQL에서 final_SQL.sql 실행 (DB 및 테이블 생성)
 
 3. connectDB.jsp에서 본인의 DB 정보로 설정 변경
 
 ```
 ex.
-String url = "jdbc:mysql://localhost:3306/foodmap";
+String url = "jdbc:mysql://localhost:3306/";
 String user = "root";
 String password = "yourpassword";
 ```
