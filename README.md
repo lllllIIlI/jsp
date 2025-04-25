@@ -85,15 +85,16 @@
 ## ⚙️ 실행 방법
 
 1.. GitHub 저장소 클론
+ex.
 ```
 bash
 git clone https://github.com/your-username/foodmap-jsp.git
 ```
 
-2. MySQL에서 db/202144102_final_SQL.sql 실행 (DB 및 테이블 생성)
+2. MySQL에서 202144102_final_SQL.sql 실행 (DB 및 테이블 생성)
 
 3. connectDB.jsp에서 본인의 DB 정보로 설정 변경
-
+ex.
 ```
 String url = "jdbc:mysql://localhost:3306/foodmap";
 String user = "root";
@@ -101,7 +102,7 @@ String password = "yourpassword";
 ```
 
 4. Apache Tomcat 서버에 프로젝트 배포 후 브라우저에서 접속
+ex.
 ```
-bash
 http://localhost:8080/foodmap/login_admin.jsp
 ```
