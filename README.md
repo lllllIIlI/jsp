@@ -53,7 +53,7 @@
 
 ## 🗺️ ERD (Entity Relationship Diagram)
 
-![ERD](./erd_diagram.png)
+![Image](https://github.com/user-attachments/assets/19483602-de26-4d4b-aaa2-a93252d4c513)
 
 ---
 
