@@ -33,7 +33,7 @@
 | 파일명 | 설명 |
 |--------|------|
 | `connectDB.jsp` | DB 연결 설정 |
-| `login.jsp` | 사용자 로그인 페이지 |
+| `login.jsp` | 로그인 페이지 |
 | `login_admin.jsp` | 관리자 로그인 페이지 |
 | `logout.jsp` | 로그아웃 처리 |
 | `admin.jsp` | 관리자 메인 대시보드 |
