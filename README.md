@@ -24,7 +24,7 @@
 | Backend | JSP, JSTL |
 | Database | MySQL |
 | Server | Apache Tomcat |
-| 기타 | JDBC, SQL |
+| 기타 | JDBC, MYSQL |
 
 ---
 
