@@ -53,13 +53,7 @@
 
 ---
 
-## 🗺️ ERD (Entity Relationship Diagram)
-
-![Image](https://github.com/user-attachments/assets/19483602-de26-4d4b-aaa2-a93252d4c513)
-
----
-
-## 📊 데이터베이스 스키마 요약
+## 📊 데이터베이스 스키마
 
 ### 🍽️ `place` 테이블 (맛집 정보)
 
