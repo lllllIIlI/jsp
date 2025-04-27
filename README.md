@@ -48,7 +48,7 @@
 | `listResult.jsp` | 맛집 목록 결과 출력 |
 | `search.jsp` | 맛집 검색 입력 폼 |
 | `searchResult.jsp` | 맛집 검색 결과 페이지 |
-| `202144102_final_SQL.sql` | DB 테이블 생성 및 샘플 데이터 |
+| `final_SQL.sql` | DB 테이블 생성 및 샘플 데이터 |
 | `erd_diagram.png` | DB 구조 ERD 이미지 |
 
 ---
