@@ -98,9 +98,4 @@ String user = "root";
 String password = "yourpassword";
 ```
 
-4. Apache Tomcat 서버에 프로젝트 배포 후 브라우저에서 접속
-
-```
-ex.
-http://localhost:8080/foodmap/login_admin.jsp
-```
+4. search.jsp을  run on server로 실행
