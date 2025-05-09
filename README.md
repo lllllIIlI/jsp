@@ -79,7 +79,7 @@
 
 ## ⚙️ 실행 방법
 
-1.. GitHub 저장소 클론
+1. GitHub 저장소 클론
 
 ```
 ex.
@@ -98,4 +98,4 @@ String user = "root";
 String password = "yourpassword";
 ```
 
-4. search.jsp을  run on server로 실행
+4. search.jsp을 server로 실행
